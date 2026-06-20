@@ -1,0 +1,12 @@
+com\ecommerce\userservice\entity\User.class
+com\ecommerce\userservice\UserServiceApplication.class
+com\ecommerce\userservice\config\SecurityConfig.class
+com\ecommerce\userservice\dto\UserRequest.class
+com\ecommerce\userservice\controller\UserController.class
+com\ecommerce\userservice\controller\HomeController.class
+com\ecommerce\userservice\entity\Address.class
+com\ecommerce\userservice\entity\Address$AddressBuilder.class
+com\ecommerce\userservice\entity\User$UserBuilder.class
+com\ecommerce\userservice\repository\UserRepository.class
+com\ecommerce\userservice\dto\UserResponse.class
+com\ecommerce\userservice\service\UserService.class
